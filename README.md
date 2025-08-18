@@ -1,41 +1,20 @@
 🎮 TIC-TAC-TOE
 
-A modern & interactive Tic-Tac-Toe game with stylish animations!
+A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play with friends or solo and enjoy the colorful, responsive design with smooth animations.
 
 ✨ FEATURES
 
-🎨 3×3 responsive game board
+The game includes:
 
-✨ X & O with smooth animations
+🎨 A 3×3 responsive game board
 
-🖱 Hover effects for interactive fun
+✨ X & O symbols with smooth animations
 
-🏆 Win/draw detection with messages
+🖱 Hover effects for interactivity
+
+🏆 Win and draw detection
 
 🔄 Restart button to play again
 
-📱 Works on desktop & mobile
-
-🕹 HOW TO PLAY
-
-Open index.html in a browser
-
-Click on a cell to place X or O
-
-Players take turns until someone wins or it’s a draw
-
-Click Restart to start a new game
-
-📂 PROJECT STRUCTURE
-tic-tac-toe/
-│
-├── index.html       # Game layout
-├── style.css        # Styling & animations
-├── script.js        # Game logic
-└── README.md        # Project documentation
-
-⚡ LICENSE
-
-Free to use for learning & personal projects
 
 Free to use for learning & personal projects
