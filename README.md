@@ -1,47 +1,40 @@
 # PRODIGY_WD_02
 🎮 Tic-Tac-Toe
 
-A modern & interactive Tic-Tac-Toe game with stylish animations!
-
-
-
-
-
-
-
+A fun & interactive Tic-Tac-Toe game built with HTML, CSS & JavaScript.
 
 ✨ Features
 
-🎨 3×3 responsive game board
+3×3 responsive board
 
-✨ X & O with smooth animations
+X & O with animations
 
-🖱 Hover effects for interactive fun
+Hover effects & stylish UI
 
-🏆 Win/draw detection with messages
+Win/draw detection
 
-🔄 Restart button to play again
-
-📱 Works on desktop & mobile
+Restart button
 
 🕹 How to Play
 
 Open index.html in a browser
 
-Click on a cell to place X or O
+Click a cell to place X or O
 
-Players take turns until someone wins or it’s a draw
+Take turns until someone wins or it’s a draw
 
-Click Restart to start a new game
+Click Restart to play again
 
-📂 Project Structure
-tic-tac-toe/
-│
-├── index.html       # Game layout
-├── style.css        # Styling & animations
-├── script.js        # Game logic
-└── README.md        # Project documentation
+📂 Project Files
+
+index.html – layout
+
+style.css – styling & animations
+
+script.js – game logic
 
 ⚡ License
+
+Free to use for learning & personal projects
 
 Free to use for learning & personal projects
