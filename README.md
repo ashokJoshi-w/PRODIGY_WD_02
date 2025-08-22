@@ -1,6 +1,6 @@
 🎮 TIC-TAC-TOE
 
-A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play with friends or solo and enjoy the colorful, responsive design with smooth animations.
+A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play with friends or solo and enjoy the colorful, responsive design with smooth animations
 
 ✨ FEATURES
 
